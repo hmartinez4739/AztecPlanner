@@ -1,0 +1,23 @@
+{
+  "name": "aztecplannerback",
+  "version": "1.0.0",
+  "description": "aztec planner backend ",
+  "homepage": "https://github.com/hmartinez4739/Aztec-Event-Planner#readme",
+  "bugs": {
+    "url": "https://github.com/hmartinez4739/Aztec-Event-Planner/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmartinez4739/Aztec-Event-Planner.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
